@@ -1,7 +1,7 @@
 namespace Full_GRASP_And_SOLID
 {
 
-public interface IRecipeContent
+public interface ITextContent
 {
     string GetTextToPrint();
 }
